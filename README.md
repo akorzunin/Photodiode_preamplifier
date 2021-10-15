@@ -3,16 +3,8 @@
  
  Configurations
 ===
+
 ## Scheme 1
-![fixed_sheme4](https://user-images.githubusercontent.com/54314123/137503624-55bd6b11-64fa-427b-9f9a-5308727b5201.png)
-
-
-описание:
-
-
-
-
-## Scheme 2
 ![sheme2](https://user-images.githubusercontent.com/54314123/137486723-82f00660-7d07-4562-9d12-3ca68af0f063.png)
 описание / тоже самое только меньшего масштаба
 ### Вариант 1
@@ -38,10 +30,10 @@
 
 Между коннекторами C8 и С9 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
 
-## Scheme 3
+## Scheme 2
 
 ![sheme1](https://user-images.githubusercontent.com/54314123/137486351-342c5949-5df9-40b1-803d-53740eb993e8.png)
-####Описание:
+### Описание:
 Крупноразмерная схема с одним двухканальным усилителем, где используется два каскада усиления
 | **Перемычка** | **Состояние** |
 |--|--|
@@ -54,13 +46,17 @@
 
 Между коннекторами C1 и С3 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
 
- 1. List item
+ ## Scheme 3
+![fixed_sheme4](https://user-images.githubusercontent.com/54314123/137503624-55bd6b11-64fa-427b-9f9a-5308727b5201.png)
+
+
+описание:
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjU3NDc5NCwxOTE0NzA1NzY5LDE2Nj
-g4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4NDUzNF19
+eyJoaXN0b3J5IjpbLTE0MTA2NzI0OTMsMTkxNDcwNTc2OSwxNj
+Y4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
 -->
