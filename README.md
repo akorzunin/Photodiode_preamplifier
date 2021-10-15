@@ -18,7 +18,7 @@
 Схема с двуканальным усилителем в певом каскаде и одноканальным усилителем во втором каскаде
 | **Перемычка** | **Состояние** |
 |--|--|
-|PDG1|замкнута||--|--|
+|PDG1|замкнута||pog||--|--|
 |OP6|замкнута||--|--|
 |OP7|разомкнута||--|--|
 |OP5|разомкнута||--|--|
@@ -36,5 +36,6 @@
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgxNTQ2MSwtMTA5NzQ4NDUzNF19
+eyJoaXN0b3J5IjpbLTExMjI4MzYxODMsLTEyNjgxNTQ2MSwtMT
+A5NzQ4NDUzNF19
 -->
