@@ -40,12 +40,22 @@
 ## Scheme 3
 ![sheme4](https://user-images.githubusercontent.com/54314123/137486937-59981861-f0ca-434a-a35b-a22b8c82c4e4.png)
 описание
+Большая схема с одним двухканальным усилителем, где используется два каскада усиления
+| **Перемычка** | **Состояние** |
+|--|--|
+|PDG1|замкнута|
+|OP6|разомкнута|
+|OP7|замкнута|
+|OP5|замкнута|
+|OP8|разомкнута|
+|CCH1|разомкнута|
+
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjE4ODY1LC0xMjY4MTU0NjEsLTEwOT
-c0ODQ1MzRdfQ==
+eyJoaXN0b3J5IjpbMTY2ODgwMjQ3NSwtMTI2ODE1NDYxLC0xMD
+k3NDg0NTM0XX0=
 -->
