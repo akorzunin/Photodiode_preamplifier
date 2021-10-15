@@ -25,7 +25,7 @@
 |OP8|замкнута||--|--|
 |CCH1|разомкнута|
 
-Между коннекторами C8 и С9 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. 
+Между коннекторами C8 и С9 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
 
 ## Scheme 3
 ![sheme4](https://user-images.githubusercontent.com/54314123/137486937-59981861-f0ca-434a-a35b-a22b8c82c4e4.png)
@@ -36,5 +36,5 @@
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODIxNjA4LC0xMDk3NDg0NTM0XX0=
+eyJoaXN0b3J5IjpbLTEyNjgxNTQ2MSwtMTA5NzQ4NDUzNF19
 -->
