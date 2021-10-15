@@ -49,14 +49,14 @@
  ## Scheme 3
 ![fixed_sheme4](https://user-images.githubusercontent.com/54314123/137503624-55bd6b11-64fa-427b-9f9a-5308727b5201.png)
 
-
-описание:
+### Описание:
+Крупноразмерная схема с двумя одноканальными усилителями
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA2NzI0OTMsMTkxNDcwNTc2OSwxNj
+eyJoaXN0b3J5IjpbLTEyNDc4MjEzNTIsMTkxNDcwNTc2OSwxNj
 Y4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
 -->
