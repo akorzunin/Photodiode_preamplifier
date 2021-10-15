@@ -6,7 +6,7 @@
 
 ## Scheme 1
 ![sheme2](https://user-images.githubusercontent.com/54314123/137486723-82f00660-7d07-4562-9d12-3ca68af0f063.png)
-описание / тоже самое только меньшего масштаба
+
 ### Вариант 1
 Схема с двуканальным усилителем в первом каскаде и одноканальным усилителем во втором каскаде
 | **Перемычка** | **Состояние** |
@@ -59,7 +59,7 @@
 Мелкоразмерная схема с двумя одноканальными усилителями
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTIyNTcyNSwtMTI0NzgyMTM1MiwxOT
+eyJoaXN0b3J5IjpbLTM0MzU4ODU0NCwtMTI0NzgyMTM1MiwxOT
 E0NzA1NzY5LDE2Njg4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4
 NDUzNF19
 -->
