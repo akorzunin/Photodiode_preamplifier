@@ -35,7 +35,7 @@ Between connectors C8 and C9 is a pair of resistor and feedback capacitor Cf = 1
 
 ![sheme1](https://user-images.githubusercontent.com/54314123/137486351-342c5949-5df9-40b1-803d-53740eb993e8.png)
 ### Description:
-A large-sized circuit with one dual-channel amplifier that uses two gain stages
+A large-sized circuit with one dual-channel operational amplifier that uses two gain stages
 | **Jumper** | **State** |
 |--|--|
 |JUMPER1|closed
@@ -51,18 +51,18 @@ Between the connectors C1 and C3 is a pair of resistor and feedback capacitor Cf
 ![fixed_sheme4](https://user-images.githubusercontent.com/54314123/137503624-55bd6b11-64fa-427b-9f9a-5308727b5201.png)
 
 ### Description:
-Large-sized circuit with two single-channel op amps
+Large-sized circuit with two single-channel operational amplifiers
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 ### Description:
-Small-sized circuit with two single-channel amplifiers
+Small-sized circuit with two single-channel operational amplifiers
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2MzYxODAsLTEyNDc4MjEzNTIsMTkxND
-cwNTc2OSwxNjY4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1
-MzRdfQ==
+eyJoaXN0b3J5IjpbLTgwNzU0NjA2MiwtMTI0NzgyMTM1MiwxOT
+E0NzA1NzY5LDE2Njg4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4
+NDUzNF19
 -->
