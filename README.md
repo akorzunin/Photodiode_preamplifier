@@ -41,18 +41,18 @@
 ## Scheme 3
 
 ![sheme1](https://user-images.githubusercontent.com/54314123/137486351-342c5949-5df9-40b1-803d-53740eb993e8.png)
-описание
-Большая схема с одним двухканальным усилителем, где используется два каскада усиления
+####Описание:
+Крупноразмерная схема с одним двухканальным усилителем, где используется два каскада усиления
 | **Перемычка** | **Состояние** |
 |--|--|
 |JUMPER1|замкнута|
 |COAX1|разомкнута|
-|OP1|разомкнута|
-|OP2|замкнута|
-
-
+|OP1|замкнута|
+|OP2|разомкнута|
 |OP3|замкнута|
 |OP4|разомкнута|
+
+Между коннекторами C1 и С3 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
 
  1. List item
 
@@ -61,6 +61,6 @@
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5MDEwMjcsMTkxNDcwNTc2OSwxNj
-Y4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
+eyJoaXN0b3J5IjpbMTkzNjU3NDc5NCwxOTE0NzA1NzY5LDE2Nj
+g4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4NDUzNF19
 -->
