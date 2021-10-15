@@ -50,12 +50,13 @@
 |OP8|разомкнута|
 |CCH1|разомкнута|
 
+ 1. List item
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODgwMjQ3NSwtMTI2ODE1NDYxLC0xMD
-k3NDg0NTM0XX0=
+eyJoaXN0b3J5IjpbMTkxNDcwNTc2OSwxNjY4ODAyNDc1LC0xMj
+Y4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
 -->
