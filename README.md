@@ -15,14 +15,14 @@
 ![sheme2](https://user-images.githubusercontent.com/54314123/137486723-82f00660-7d07-4562-9d12-3ca68af0f063.png)
 описание / тоже самое только меньшего масштаба
 
-| перемычка | состояние |
+| **перемычка** | **состояние** |
 |--|--|
-|PDG1|  ||--|--|
-|OP6|  ||--|--|
+|PDG1|замкнута||--|--|
+|OP6|замкнута||--|--|
 |OP7|  ||--|--|
-|  |  ||--|--|
-|  |  ||--|--|
-|  |  |
+|OP5|  ||--|--|
+|OP8|замкнута||--|--|
+|CCH1|  |
 
 
 
@@ -35,6 +35,6 @@
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ5ODYzOTksLTEwOTc0ODQ1MzRdfQ
+eyJoaXN0b3J5IjpbLTEwMTg3OTU5NzIsLTEwOTc0ODQ1MzRdfQ
 ==
 -->
