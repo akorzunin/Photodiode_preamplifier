@@ -47,10 +47,12 @@
 |--|--|
 |JUMPER1|замкнута|
 |COAX1|разомкнута|
-|OP7|замкнута|
-|OP5|замкнута|
-|OP8|разомкнута|
-|CCH1|разомкнута|
+|OP1|разомкнута|
+|OP2|замкнута|
+
+
+|OP3|замкнута|
+|OP4|разомкнута|
 
  1. List item
 
@@ -59,6 +61,6 @@
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
 описание / тоже самое только меньшего масштаба
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzAzMTk4MSwxOTE0NzA1NzY5LDE2Nj
-g4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4NDUzNF19
+eyJoaXN0b3J5IjpbLTEzMzk5MDEwMjcsMTkxNDcwNTc2OSwxNj
+Y4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
 -->
