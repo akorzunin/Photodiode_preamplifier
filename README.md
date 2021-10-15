@@ -55,8 +55,11 @@
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
-описание / тоже самое только меньшего масштаба
+### Описание:
+Мелкоразмерная схема с двумя одноканальными усилителями
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc4MjEzNTIsMTkxNDcwNTc2OSwxNj
-Y4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1MzRdfQ==
+eyJoaXN0b3J5IjpbMTc0NTIyNTcyNSwtMTI0NzgyMTM1MiwxOT
+E0NzA1NzY5LDE2Njg4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4
+NDUzNF19
 -->
