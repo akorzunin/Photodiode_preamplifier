@@ -7,59 +7,62 @@
 ## Scheme 1
 ![sheme2](https://user-images.githubusercontent.com/54314123/137486723-82f00660-7d07-4562-9d12-3ca68af0f063.png)
 
-### Вариант 1
-Схема с двуканальным усилителем в первом каскаде и одноканальным усилителем во втором каскаде
-| **Перемычка** | **Состояние** |
-|--|--|
-|PDG1|замкнута|
-|OP6|замкнута|
-|OP7|разомкнута|
-|OP5|разомкнута|
-|OP8|замкнута|
-|CCH1|разомкнута|
-### Вариант 2
-Схема с одним двухканальным усилителем, где используется два каскада усиления
-| **Перемычка** | **Состояние** |
-|--|--|
-|PDG1|замкнута|
-|OP6|разомкнута|
-|OP7|замкнута|
-|OP5|замкнута|
-|OP8|разомкнута|
-|CCH1|разомкнута|
 
-Между коннекторами C8 и С9 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
+### Option 1
+Circuit with two-channel amplifier in the first stage and single-channel amplifier in the second stage
+| **Jumper** | **State** |
+|--|--|
+|PDG1|closed
+|OP6|closed
+|OP7|op7|open
+|OP5|op5|open
+|OP8|closed
+|CCH1 is open
+### Option 2
+Circuit with one dual channel amplifier using two amplifier stages
+| **Jumper** | **State** |
+|--|--|
+|PDG1|closed
+|OP6|op6|open
+|OP7 closed
+|OP5|closed
+|OP8|op8|open
+|CCH1Off closed
+
+Between connectors C8 and C9 is a pair of resistor and feedback capacitor Cf = 10pf, Rf = 300k. These values depend on the photodiode used.
 
 ## Scheme 2
 
 ![sheme1](https://user-images.githubusercontent.com/54314123/137486351-342c5949-5df9-40b1-803d-53740eb993e8.png)
-### Описание:
-Крупноразмерная схема с одним двухканальным усилителем, где используется два каскада усиления
-| **Перемычка** | **Состояние** |
+### Description:
+A large-sized circuit with one dual-channel amplifier that uses two gain stages
+| **Jumper** | **State** |
 |--|--|
-|JUMPER1|замкнута|
-|COAX1|разомкнута|
-|OP1|замкнута|
-|OP2|разомкнута|
-|OP3|замкнута|
-|OP4|разомкнута|
+|JUMPER1|closed
+|COAX1|open
+|OP1|closed
+|OP2|op2|open
+|OP3|Connected
+|OP4 open
 
-Между коннекторами C1 и С3 ставится пара резистор и конденсатор обратной связи Cf = 10pf, Rf = 300k. Данные значения подбираяюся в зависимости от используемого фотодиода.
+Between the connectors C1 and C3 is a pair of resistor and feedback capacitor Cf = 10pf, Rf = 300k. These values depend on the photodiode used.
 
  ## Scheme 3
 ![fixed_sheme4](https://user-images.githubusercontent.com/54314123/137503624-55bd6b11-64fa-427b-9f9a-5308727b5201.png)
 
-### Описание:
-Крупноразмерная схема с двумя одноканальными усилителями
+### Description:
+Large-sized circuit with two single-channel op amps
 
 ## Scheme 4
 
 ![sheme3](https://user-images.githubusercontent.com/54314123/137486867-261485b9-a7e2-4f39-91f7-37b946179ed3.png)
-### Описание:
-Мелкоразмерная схема с двумя одноканальными усилителями
+### Description:
+Small-sized circuit with two single-channel amplifiers
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzU4ODU0NCwtMTI0NzgyMTM1MiwxOT
-E0NzA1NzY5LDE2Njg4MDI0NzUsLTEyNjgxNTQ2MSwtMTA5NzQ4
-NDUzNF19
+eyJoaXN0b3J5IjpbOTA2MzYxODAsLTEyNDc4MjEzNTIsMTkxND
+cwNTc2OSwxNjY4ODAyNDc1LC0xMjY4MTU0NjEsLTEwOTc0ODQ1
+MzRdfQ==
 -->
